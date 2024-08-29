@@ -27,7 +27,7 @@ Make sure you have the following installed on your machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/holiday-planner-api.git
+git clone https://github.com/sucksido/holiday-planner-api.git
 cd holiday-planner-api
 ```
 
