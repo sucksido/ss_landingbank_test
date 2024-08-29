@@ -132,3 +132,5 @@ The API will be accessible at `http://127.0.0.1:8000/` within the Docker environ
 
 - **ModuleNotFoundError**: Ensure your virtual environment is activated and all dependencies are installed via `pip install -r requirements.txt`.
 - **Database Errors**: Make sure you've applied all migrations with `python manage.py migrate`.
+
+![image](https://github.com/user-attachments/assets/3374a658-8d40-4f97-ba7f-044560a12e2e)
